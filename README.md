@@ -31,6 +31,7 @@ Start the application:
 Menu Overview:
 
 After starting the program, the following menu is displayed:
+
 0. Exit
 1. List movies
 2. Add movie
@@ -45,7 +46,7 @@ After starting the program, the following menu is displayed:
 Enter the number corresponding to the desired action.
 
 ---
-Functionality Details
+Functionality Details:
 
 List Movies
 - Displays all movies in the database along with their release year and rating.
@@ -122,8 +123,10 @@ How to Get an API Key
 - Create an account if required
 - Generate a personal API key
 ---
+
 Author
 
 Created as a Python learning project.
 Feel free to modify, extend, and improve it
+
 ---
